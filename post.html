@@ -1,8 +1,7 @@
-<!some format testing taken from: http://jeremymikkola.com/>  
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Leland Bybee - test page</title>
+    <title>Leland Bybee - {{ title }}</title>
 
     <style>
 body {
@@ -32,7 +31,7 @@ div.logo {
 }
 
 div.logo a {
-    color: #220;
+    color: #555;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
@@ -43,7 +42,7 @@ div.header .navigation {
 }
 
 div.header .navigation a {
-    color: #220;
+    color: #555;
     font-size: 18px;
     font-weight: bold;
     margin-left: 12px;
@@ -198,12 +197,3 @@ p>code, li>code {
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 
-
-<h1 id="this-is-a-test-of-org-pandoc-math-handling">This is a test of org-&gt;pandoc math handling</h1>
-<ul>
-<li>some ideas <span class="math inline">\(\theta\)</span> here.</li>
-</ul>
-<p><span class="math display">\[X = \sum_{v=1}^V v \]</span></p>
-<ul>
-<li>more notes here <span class="math inline">\(\phi\)</span></li>
-</ul>

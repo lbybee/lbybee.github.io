@@ -2,7 +2,6 @@
 Everything I need to build my website
 """
 from feedgen.feed import FeedGenerator
-from bs4 import BeautifulSoup
 from jinja2 import Template
 from toolbelt import spbash
 import os
@@ -43,14 +42,10 @@ def pop_blog(f, blog_dir, post_dict, blog_feed, blog_template, main_template):
     url = "https://lbybee.github.io/%s" % html_f
 
     # build html
-    cmd = ("pandoc -r org -t html --mathjax --standalone %s "
-           "-o /dev/stdout")
+    cmd = "pandoc -r org -t html --mathjax %s -o /dev/stdout"
 
     html = spbash(cmd % full_path)
     html = post_template.render(date=date, pandoc_html=html)
-    # remove pandoc body
-    html = str(BeautifulSoup(html, features="lxml").body)
-    html = html.replace("<body>", "").replace("</body>", "")
     html = main_template.render(title=title, content_html=html)
 
 

@@ -1,0 +1,20 @@
+<!--
+This html file contains the additional templating needed for a blog post.
+It adds MathJax.
+It can be used as a jinja2 template with the following components:
+
+    - date_str (date of post)
+    - pandoc_html (the output of the pandoc command run on an org file)
+
+The rendered content should then be passed into the "page.html" template to
+render an actual blog-post
+-->
+
+<div class="info">
+    Posted on {{ date_str }}
+</div>
+
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
+
+{{ pandoc_html }}

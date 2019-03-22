@@ -1,3 +1,17 @@
+<!--
+The header/formatting was largely taken from:
+
+http://jeremymikkola.com/
+
+This html file is the generic template for a page on my website.
+It handles the style and what-not.
+It can be used as a jinja2 template with the following components:
+
+    - title (title of the page)
+    - content_html (what should the actual content look like?)
+
+-->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -166,34 +180,30 @@ p>code, li>code {
         font-size: 1.5rem;
     }
 }
-    </style>
-    <link rel="alternate" type="application/atom+xml" title="Leland Bybee - blog" href="../atom.xml">
+</style>
 
-  </head>
-  <body>
-    <div class="container">
-      <div id="header" class="header column">
-        <div id="logo" class="logo column">
-          <a href="../">Leland's Blog</a>
-        </div>
-        <div id="navigation" class="navigation column">
-          <a href="../">Home</a>
-          <a href="../about.html">About</a>
-          <a href="../archive.html">Archive</a>
-        </div>
-      </div>
+<link rel="alternate" type="application/atom+xml" title="Leland Bybee - blog" href="../atom.xml">
 
-      <div id="content" class="content column">
-        <div class="post">
-          <h1 class="title">test</h1>
+</head>
 
-          <div class="info">
-    Posted on March 19, 2019
-    
+<body>
+<div class="container">
+  <div id="header" class="header column">
+    <div id="logo" class="logo column">
+      <a href="../">Leland Bybee</a>
+    </div>
+    <div id="navigation" class="navigation column">
+      <a href="../">Home</a>
+      <a href="../about.html">About</a>
+      <a href="../archive.html">Archive</a>
+    </div>
+  </div>
+
+<div id="content" class="content column">
+  <div class="post">
+      <h1 class="title">{{ title }}</h1>
+
+{{ content_html }}
+
 </div>
-
-
-
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
-
+</div>

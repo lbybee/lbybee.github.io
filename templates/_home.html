@@ -13,11 +13,9 @@ The resulting file will have a header for every section with a list
 of corresponding blog posts
 -->
 
-{% for sec, posts in sections.items() %}
-<h1 id="{{ sec|lower|replace(' ', '_') }}">{{ sec }}</h1>
+<h1 id="toc">Blog Posts</h1>
 {% for title, url in posts.items() %}
 <ul>
 <li><a href="{{ url }}">{{ title }}</a></li>
 </ul>
-{% endfor %}
 {% endfor %}

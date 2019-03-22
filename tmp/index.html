@@ -1,21 +1,8 @@
-<!--
-The header/formatting was largely taken from:
-
-http://jeremymikkola.com/
-
-This html file is the generic template for a page on my website.
-It handles the style and what-not.
-It can be used as a jinja2 template with the following components:
-
-    - title (title of the page)
-    - content_html (what should the actual content look like?)
-
--->
-
+<!--some format testing taken from: http://jeremymikkola.com/-->
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Leland Bybee - Blog Posts</title>
+    <title>Leland Bybee - test page</title>
 
     <style>
 body {
@@ -45,7 +32,7 @@ div.logo {
 }
 
 div.logo a {
-    color: #555;
+    color: #544;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
@@ -56,7 +43,7 @@ div.header .navigation {
 }
 
 div.header .navigation a {
-    color: #555;
+    color: #544;
     font-size: 18px;
     font-weight: bold;
     margin-left: 12px;
@@ -180,54 +167,34 @@ p>code, li>code {
         font-size: 1.5rem;
     }
 }
-</style>
+    </style>
+    <link rel="alternate" type="application/atom+xml" title="Leland Bybee - blog" href="../atom.xml">
 
-<link rel="alternate" type="application/atom+xml" title="Leland Bybee - blog" href="../atom.xml">
+  </head>
+  <body>
+    <div class="container">
+      <div id="header" class="header column">
+        <div id="logo" class="logo column">
+          <a href="../">Leland's Blog</a>
+        </div>
+        <div id="navigation" class="navigation column">
+          <a href="../">Home</a>
+          <a href="../about.html">About</a>
+          <a href="../archive.html">Archive</a>
+        </div>
+      </div>
 
-</head>
+      <div id="content" class="content column">
+        <div class="post">
+          <h1 class="title">test</h1>
 
-<body>
-<div class="container">
-  <div id="header" class="header column">
-    <div id="logo" class="logo column">
-      <a href="../">Leland Bybee</a>
-    </div>
-    <div id="navigation" class="navigation column">
-      <a href="../">Home</a>
-      <a href="../about.html">About</a>
-      <a href="../archive.html">Archive</a>
-    </div>
-  </div>
-
-<div id="content" class="content column">
-  <div class="post">
-      <h1 class="title">Blog Posts</h1>
-
-<!--
-This html file contains the additional templating needed to produce
-an index of blog posts.
-It can be used as a jinja2 template with the following components:
-
-    - sections
-        - This is a dictionary where keys correspond to section labels
-          and values correspond to dicts of blog posts references
-        - The keys for the blog post references are the blog title
-          and the values are the url
-
-The resulting file will have a header for every section with a list
-of corresponding blog posts
--->
-
-<h1 id="toc">Blog Posts</h1>
-
-<ul>
-<li><a href="https://lbybee.github.io/posts/2019-03-22-test1.html">2019-03-22-test1</a></li>
-</ul>
-
-<ul>
-<li><a href="https://lbybee.github.io/posts/2019-03-20-test0.html">2019-03-20-test0</a></li>
-</ul>
-
-
+          <div class="info">
+    Posted on March 19, 2019
+    
 </div>
-</div>
+
+
+<h1 id="tech">Tech</h1>
+<ul>
+<li><a href="https://lbybee.github.io/math_test.html">2019-03-20 MathJax Test</a></li>
+</ul>

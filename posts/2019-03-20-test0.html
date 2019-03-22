@@ -15,7 +15,7 @@ It can be used as a jinja2 template with the following components:
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Leland Bybee - Blog Posts</title>
+    <title>Leland Bybee - test0</title>
 
     <style>
 body {
@@ -201,32 +201,56 @@ p>code, li>code {
 
 <div id="content" class="content column">
   <div class="post">
-      <h1 class="title">Blog Posts</h1>
+      <h1 class="title">test0</h1>
 
 <!--
-This html file contains the additional templating needed to produce
-an index of blog posts.
+This html file contains the additional templating needed for a blog post.
+It adds MathJax.
 It can be used as a jinja2 template with the following components:
 
-    - sections
-        - This is a dictionary where keys correspond to section labels
-          and values correspond to dicts of blog posts references
-        - The keys for the blog post references are the blog title
-          and the values are the url
+    - date_str (date of post)
+    - pandoc_html (the output of the pandoc command run on an org file)
 
-The resulting file will have a header for every section with a list
-of corresponding blog posts
+The rendered content should then be passed into the "page.html" template to
+render an actual blog-post
 -->
 
-<h1 id="toc">Blog Posts</h1>
+<div class="info">
+    Posted on 2019-03-20
+</div>
 
-<ul>
-<li><a href="https://lbybee.github.io/posts/2019-03-22-test1.html">2019-03-22-test1</a></li>
-</ul>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>2019-03-20-test0</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<nav id="TOC">
 <ul>
-<li><a href="https://lbybee.github.io/posts/2019-03-20-test0.html">2019-03-20-test0</a></li>
+<li><a href="#tech">Tech</a></li>
 </ul>
+</nav>
+<h1 id="tech">Tech</h1>
+<ul>
+<li><a href="https://lbybee.github.io/math_test.html">2019-03-20 MathJax Test</a></li>
+</ul>
+</body>
+</html>
 
 
 </div>

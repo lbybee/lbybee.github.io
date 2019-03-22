@@ -203,49 +203,26 @@ p>code, li>code {
   <div class="post">
       <h1 class="title">test1</h1>
 
-<!--
-This html file contains the additional templating needed for a blog post.
-It adds MathJax.
-It can be used as a jinja2 template with the following components:
-
-    - date_str (date of post)
-    - pandoc_html (the output of the pandoc command run on an org file)
-
-The rendered content should then be passed into the "page.html" template to
-render an actual blog-post
--->
-
 <div class="info">
     Posted on 2019-03-22
 </div>
-
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>2019-03-22-test1</title>
-  <style>
+
+<meta charset="utf-8"/>
+<meta content="pandoc" name="generator"/>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/>
+<title>2019-03-22-test1</title>
+<style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
       span.underline{text-decoration: underline;}
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
-  <!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
+<!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-</head>
-<body>
-<nav id="TOC">
-<ul>
-<li><a href="#this-is-a-test-of-org-pandoc-math-handling">This is a test of org-&gt;pandoc math handling</a></li>
-</ul>
-</nav>
 <h1 id="this-is-a-test-of-org-pandoc-math-handling">This is a test of org-&gt;pandoc math handling</h1>
 <ul>
 <li>some ideas <span class="math inline">\(\theta\)</span> here.</li>
@@ -254,8 +231,6 @@ render an actual blog-post
 <ul>
 <li>more notes here <span class="math inline">\(\phi\)</span></li>
 </ul>
-</body>
-</html>
 
 
 </div>

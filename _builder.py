@@ -56,7 +56,7 @@ def pop_blog(f, blog_dir, post_dict, post_template, main_template):
     item = Item(title=full_title,
                 link=url,
                 author="Leland Bybee",
-                description=" ",
+                description=full_title,
                 guid=Guid(url),
                 pubDate=parse(date))
 

@@ -1,13 +1,15 @@
 """
 Everything I need to build my website
 """
-from feedgen.feed import FeedGenerator
+from rfeed import Feed, Item, Guid
+from dateutil.parser import parse
+from datetime import datetime
 from jinja2 import Template
 from toolbelt import spbash
 import os
 
 
-def pop_blog(f, blog_dir, post_dict, blog_feed, blog_template, main_template):
+def pop_blog(f, blog_dir, post_dict, post_template, main_template):
     """populates an html page from an org blog post
 
     Parameters
@@ -18,9 +20,7 @@ def pop_blog(f, blog_dir, post_dict, blog_feed, blog_template, main_template):
         location where org blog posts are located
     post_dict : dict
         dictionary of posts mapping titles to urls
-    blog_feed : FeedGenerator instance
-        blog feed instance for RSS
-    blog_template : jinja2 Template instance
+    post_template : jinja2 Template instance
         template containing content for blog post
     main_template : jinja2 Template instnace
         template for adding style to blog post
@@ -28,7 +28,7 @@ def pop_blog(f, blog_dir, post_dict, blog_feed, blog_template, main_template):
     Returns
     -------
     tuple
-        containing updated post_dict and blog_feed
+        containing updated post_dict and item to add to rss feed
     """
 
     # prep inputs
@@ -53,16 +53,17 @@ def pop_blog(f, blog_dir, post_dict, blog_feed, blog_template, main_template):
         fd.write(html)
 
     # add to rss feed
-    fe = blog_feed.add_entry()
-    fe.id(url)
-    fe.title(full_title)
-    fe.description("some stuff here")
-    fe.link(href=url)
+    item = Item(title=full_title,
+                link=url,
+                author="Leland Bybee",
+                description=" ",
+                guid=Guid(url),
+                pubDate=parse(date))
 
     # update content dict
     post_dict[full_title] = url
 
-    return post_dict, blog_feed
+    return post_dict, item
 
 
 # load templates
@@ -79,23 +80,16 @@ for f in html_files:
     if os.path.splitext(f)[1] == ".html":
         os.remove(f)
 
-# prep blog_feed
-blog_feed = FeedGenerator()
-blog_feed.id("https://lbybee.github.io")
-blog_feed.title("Leland's Blog")
-blog_feed.author({"name": "Leland Bybee"})
-blog_feed.link(href="https://lbybee.github.io")
-blog_feed.description("My Blog")
-blog_feed.language("en")
-
 # prep blog posts
 post_dict = {}
+items = []
 blog_dir = "/home/lbybee/passepartout/notes/blog"
 blog_posts = [f for f in os.listdir(blog_dir)
               if os.path.splitext(f)[1] == ".org"]
 for f in blog_posts:
-    post_dict, blog_feed = pop_blog(f, blog_dir, post_dict, blog_feed,
-                                    post_template, main_template)
+    post_dict, item = pop_blog(f, blog_dir, post_dict, post_template,
+                               main_template)
+    items.append(item)
 
 # build index page
 html = home_template.render(posts=post_dict)
@@ -104,5 +98,12 @@ with open("index.html", "w") as fd:
     fd.write(html)
 
 # build rss page
-blog_feed.rss_file("rss.xml")
-blog_feed.atom_file("atom.xml")
+feed = Feed(title="Leland's Blog",
+            link="https://lbybee.github.io",
+            description="My personal blog",
+            language="en-US",
+            lastBuildDate = datetime.now(),
+            items=items)
+rss = feed.rss()
+with open("rss.xml", "w") as fd:
+    fd.write(rss)

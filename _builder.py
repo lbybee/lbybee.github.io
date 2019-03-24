@@ -105,5 +105,5 @@ feed = Feed(title="Leland's Blog",
             lastBuildDate = datetime.now(),
             items=items)
 rss = feed.rss()
-with open("rss", "w") as fd:
+with open("feed.rss", "w") as fd:
     fd.write(rss)

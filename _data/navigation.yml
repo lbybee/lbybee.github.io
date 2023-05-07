@@ -2,8 +2,10 @@
 main:
   - title: "Papers"
     url: /papers/
+
   - title: "Code"
     url: /code/
+
   - title: "Data"
     url: /data/
 

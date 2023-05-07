@@ -181,7 +181,7 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
-  data:
+  rdata:
     output: true
     permalink: /:collection/:path/
 #  teaching:

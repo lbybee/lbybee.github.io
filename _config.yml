@@ -178,7 +178,7 @@ collections:
 #  teaching:
 #    output: false
 #    permalink: /:collection/:path/
-  research:
+  papers:
     output: true
     permalink: /:collection/:path/
   code:

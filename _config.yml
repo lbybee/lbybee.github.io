@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Leland Bybee"
   avatar           : "headshot_square.png"
-  bio              :
+  bio              : "PhD candidate at Yale SOM"
   location         :
   employer         :
   pubmed           :
@@ -175,21 +175,21 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+#  teaching:
+#    output: false
+#    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+#  publications:
+#    output: false
+#    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
 
 
 # Defaults

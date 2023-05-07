@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    :
 title_separator          : "-"
 name                     : &name "Leland Bybee"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Leland Bybee"
-  avatar           : "images/headshot.png"
+  avatar           : "headshot_square.png"
   bio              :
   location         :
   employer         :

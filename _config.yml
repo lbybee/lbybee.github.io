@@ -181,9 +181,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
-#  data:
-#    output: true
-#    permalink: /:collection/:path/
+  data:
+    output: true
+    permalink: /:collection/:path/
 #  teaching:
 #    output: false
 #    permalink: /:collection/:path/

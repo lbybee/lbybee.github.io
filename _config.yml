@@ -181,9 +181,9 @@ collections:
   code:
     output: true
     permalink: /:collection/:path/
-  data:
-    output: true
-    permalink: /:collection/:path/
+#  data:
+#    output: true
+#    permalink: /:collection/:path/
 #  teaching:
 #    output: false
 #    permalink: /:collection/:path/
@@ -218,15 +218,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _rdata
-  - scope:
-      path: ""
-      type: data
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _papers
   - scope:
       path: ""

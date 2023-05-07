@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    :
+title                    : "Leland Bybee"
 title_separator          : "-"
 name                     : &name "Leland Bybee"
 description              : &description "personal description"

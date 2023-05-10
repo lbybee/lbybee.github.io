@@ -11,12 +11,12 @@ I am a PhD candidate in financial economics at the Yale School of Management.  M
 
 Education
 ======
-* B.A. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Chicago, 2013
+* M.S. in Statistics, University of Michigan, 2017
+* Ph.D in Financial Economics, Yale School of Management
 
 Publications
 ======
-  <ul>{% for post in site.research %}
+  <ul>{% for post in site.papers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

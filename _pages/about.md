@@ -15,7 +15,7 @@ Education
 * M.S. in Statistics, University of Michigan, 2017
 * Ph.D in Financial Economics, Yale School of Management
 
-Publications
+Papers
 ======
   <ul>{% for post in site.papers %}
     {% include archive-single-cv.html %}

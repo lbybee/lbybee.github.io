@@ -17,6 +17,6 @@ Education
 
 Papers
 ======
-  <ul>{% for post in site.papers %}
+  <ul>{% for post in site.papers reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

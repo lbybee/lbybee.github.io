@@ -1,10 +1,10 @@
 ---
 title: "Surveying Generative AI's Economic Expectations"
 collection: papers
-permalink: /papers/0-surveying-generative-AI.md
-excerpt:
+permalink: /papers/0-surveying-generative-AI
+excerpt: ""
 date: 2023-02-16
-venue:
+venue: ""
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515"
 citation: "Bybee, Leland. (2023). &quot;Surveying Generative AI's Economic Expectations.&quot;"
 ---

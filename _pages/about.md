@@ -38,7 +38,7 @@ Papers
 **4. Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
     This version: February 2022\
-   \[[Paper](../files/mIPCA.pdf)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
+   \[[Paper](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
 
 **5. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with Yves Atchadé)\

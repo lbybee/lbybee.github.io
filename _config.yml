@@ -11,7 +11,7 @@ title                    : "Leland Bybee"
 title_separator          : "-"
 name                     : &name "Leland Bybee"
 description              : &description "PhD candidate at Yale SOM"
-url                      : https://lbybee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lelandbybee.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lbybee/lbybee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :  "G-WR4T19HLE2"
 

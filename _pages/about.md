@@ -44,4 +44,4 @@ Papers
     (with Yves Atchadé)\
     *Journal of Machine Learning Research*\
     This version: January 2018\
-   \[[Paper](https://www.jmlr.org/papers/volume19/17-218/17-218.pdf)\] \[[Code](https://cran.r-project.org/web/packages/changepointsHD/index.html)\]
+   \[[Paper](../files/GCP.pdf)\] \[[JMLR](https://www.jmlr.org/papers/volume19/17-218/17-218.pdf)\] \[[Code](https://cran.r-project.org/web/packages/changepointsHD/index.html)\]

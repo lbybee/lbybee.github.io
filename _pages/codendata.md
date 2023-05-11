@@ -9,7 +9,13 @@ author_profile: true
 
     A penalized implementation of instrumented principal components analysis.
 
+- [The Structure of Economic News](http://structureofnews.com/)
+
+    Data and summaries for the 180 topics estimated for Business News and Business Cycles.
+
 - [labbot](https://github.com/lbybee/labbot)
+
+    A set of python decorators useful for iterative development of research code.
 
 - [IPCA](https://github.com/bkelly-lab/ipca)
 
@@ -17,8 +23,4 @@ author_profile: true
 
 - [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html)
 
-- [statsmodels](https://github.com/statsmodels/statsmodels)
-
-- [The Structure of Economic News](http://structureofnews.com/)
-
-- [Replication Files for Narrative Asset Pricing](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)
+    An R implementation of a simulated annealing algorithm for change-point detection.

@@ -30,6 +30,7 @@ Papers
   Hello world
 
   </details>
+  <br/>
 
 **2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with Bryan Kelly and Yinan Su)\

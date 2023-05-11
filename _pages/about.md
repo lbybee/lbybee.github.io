@@ -21,12 +21,10 @@ Papers
 ======
 **1. Surveying Generative AI's Economic Expectations**\
    This version: April 2023
-    <details>
-    <summary>test</summary>
+  \[[Paper](../files/survey_AI.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\]
+    <details><summary>test</summary>
     Hello world
     </details>
-
-  \[[Paper](../files/survey_AI.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\]
 
 **2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with Bryan Kelly and Yinan Su)\

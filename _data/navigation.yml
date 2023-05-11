@@ -3,11 +3,11 @@ main:
   - title: "Papers"
     url: /papers/
 
-  - title: "Code"
-    url: /code/
+  - title: "Code & Data"
+    url: /codendata/
 
-  - title: "Data"
-    url: /data/
+#  - title: "Data"
+#    url: /data/
 
 #  - title: "Talks"
 #    url: /talks/

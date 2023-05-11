@@ -13,6 +13,8 @@ author_profile: true
 
     Data and summaries for the 180 topics estimated for Business News and Business Cycles.
 
+    ![Recession Attention](../files/structure_att.png)
+
 - [labbot](https://github.com/lbybee/labbot)
 
     A set of python decorators useful for iterative development of research code.

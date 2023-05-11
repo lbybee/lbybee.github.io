@@ -17,7 +17,7 @@ author_profile: true
 
 - [labbot](https://github.com/lbybee/labbot)
 
-    A set of python decorators useful for iterative development of research code.
+    A set of Python decorators useful for iterative development of research code.
 
 - [IPCA](https://github.com/bkelly-lab/ipca)
 

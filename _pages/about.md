@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in financial economics at the Yale School of Management.  My research focuses on asset pricing, behavioral finance, financial econometrics, text data, and high-dimensional Bayesian statistics.  Before Yale, I was a researcher at the Booth School of Business, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
+I am a PhD candidate in financial economics at the Yale School of Management.  A core contention of my research is that novel empricial measurement is central to scientific progress.  My current focus is on developing measures of beliefs with applications to asset pricing and behavioral economics.
+
+Before Yale, I was a researcher at the Booth School of Business, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
 
 Education
 ======

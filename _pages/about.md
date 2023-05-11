@@ -29,7 +29,7 @@ I introduce a survey of economic expectations formed by querying a large languag
 2. [Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text](../files/narrative_AP.pdf) (with Bryan Kelly and Yinan Su)\
    Forthcoming at *Review of Financial Studies*\
    This version: May 2023\
-   \[[Paper](../files/narrative_AP.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\]
+   \[[Paper](../files/narrative_AP.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
    <details><summary>Abstract</summary>
 We estimate a narrative factor pricing model from news text of The Wall Street Journal. Our empirical method integrates topic modeling (LDA), latent factor analysis (IPCA), and variable selection (group lasso). Narrative factors achieve higher out-of-sample Sharpe ratios and smaller pricing errors than standard characteristic-based factor models and predict future investment opportunities in a manner consistent with the ICAPM. We derive an interpretation of the estimated risk factors from narratives in the underlying article text.
     </details>

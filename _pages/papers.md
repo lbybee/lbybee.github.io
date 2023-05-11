@@ -23,7 +23,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 3. [Business News and Business Cycles](../files/BNBC.pdf) (with Bryan Kelly, Asaf Manela, and Dacheng Xiu)\
    Revise and Resubmit at *Journal of Finance*\
    This version: April 2023\
-   \[[Paper](../files/BNBC.pdf)\] \[[Data](http://structureofnews.com/)\]
+   \[[Paper](../files/BNBC.pdf)\] \[[NBER](https://www.nber.org/papers/w29344)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446225)\] \[[Data](http://structureofnews.com/)\]
    <details><summary>Abstract</summary>
 We propose an approach to measuring the state of the economy via textual analysis of business news. From the full text of 800,000 Wall Street Journal articles for 1984–2017, we estimate a topic model that summarizes business news into interpretable topical themes and quantifies the proportion of news attention allocated to each theme over time. News attention closely tracks a wide range of economic activities and explains 25% of aggregate stock market returns. A text-augmented VAR demonstrates the large incremental role of news text in modeling macroeconomic dynamics. We use this model to retrieve the narratives that underlie business cycle fluctuations.
     </details>

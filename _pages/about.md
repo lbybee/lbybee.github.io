@@ -20,21 +20,21 @@ Education
 Papers
 ======
 **1. Surveying Generative AI's Economic Expectations**\
-   This version: April 2023\
-   \[[Paper](../files/survey_AI.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\]
+   This version: April 2023
    <details><summary>Abstract</summary>
 I introduce a survey of economic expectations formed by querying a large language model (LLM)’s expectations of various financial and macroeconomic variables based on a sample of news articles from the Wall Street Journal between 1984 and 2021. I find the resulting expectations closely match existing surveys including the Survey of Professional Forecasters (SPF), the American Association of Individual Investors, and the Duke CFO Survey. Importantly, I document that LLM based expectations match many of the deviations from full-information rational expectations exhibited in these existing survey series. The LLM’s macroeconomic expectations exhibit under reaction commonly found in consensus SPF forecasts. Additionally, its return expectations are extrapolative, disconnected from objective measures of expected returns, and negatively correlated with future realized returns. Finally, using a sample of articles outside of the LLM’s training period I find that the correlation with existing survey measures persists – indicating these results do not reflect memorization but generalization on the part of the LLM. My results provide evidence for the potential of LLMs to help us better understand human beliefs and navigate possible models of nonrational expectations.
    </details>
+   \[[Paper](../files/survey_AI.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\]
 
 
 **2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with Bryan Kelly and Yinan Su)\
    Forthcoming at *Review of Financial Studies*\
-   This version: May 2023\
-   \[[Paper](../files/narrative_AP.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
+   This version: May 2023
    <details><summary>Abstract</summary>
 We estimate a narrative factor pricing model from news text of The Wall Street Journal. Our empirical method integrates topic modeling (LDA), latent factor analysis (IPCA), and variable selection (group lasso). Narrative factors achieve higher out-of-sample Sharpe ratios and smaller pricing errors than standard characteristic-based factor models and predict future investment opportunities in a manner consistent with the ICAPM. We derive an interpretation of the estimated risk factors from narratives in the underlying article text.
     </details>
+   \[[Paper](../files/narrative_AP.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
 
 
 **3. Business News and Business Cycles**\

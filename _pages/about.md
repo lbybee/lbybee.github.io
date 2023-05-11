@@ -13,9 +13,9 @@ Before Yale, I was a researcher at the Booth School of Business, received a mast
 
 Education
 ======
-* B.A. in Economics, University of Chicago, 2013
-* M.S. in Statistics, University of Michigan, 2017
 * Ph.D in Financial Economics, Yale School of Management
+* M.S. in Statistics, University of Michigan, 2017
+* B.A. in Economics, University of Chicago, 2013
 
 Papers
 ======

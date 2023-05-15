@@ -13,7 +13,7 @@ I introduce a survey of economic expectations formed by querying a large languag
   </details>
 
 **2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
-   (with Bryan Kelly and Yinan Su)\
+   (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    Forthcoming at *Review of Financial Studies*\
    This version: May 2023\
    \[[Paper](../files/narrative_AP.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
@@ -24,7 +24,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 
 
 **3. Business News and Business Cycles**\
-   (with Bryan Kelly, Asaf Manela, and Dacheng Xiu)\
+   (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Revise and Resubmit at *Journal of Finance*\
    This version: April 2023\
    \[[Paper](../files/BNBC.pdf)\] \[[NBER](https://www.nber.org/papers/w29344)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446225)\] \[[Data](http://structureofnews.com/)\]
@@ -45,7 +45,7 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 
 
 **5. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
-    (with Yves Atchadé)\
+    (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\
    \[[Paper](../files/GCP.pdf)\] \[[JMLR](https://www.jmlr.org/papers/volume19/17-218/17-218.pdf)\] \[[Code](https://cran.r-project.org/web/packages/changepointsHD/index.html)\]

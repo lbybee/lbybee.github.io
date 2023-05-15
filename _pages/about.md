@@ -19,7 +19,7 @@ Education
 
 Papers
 ======
-**1. Surveying Generative AI's Economic Expectations**\
+**1. [Surveying Generative AI's Economic Expectations](../files/survey_AI.pdf)**\
    This version: April 2023\
   \[[Paper](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
 

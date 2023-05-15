@@ -25,7 +25,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 
 **Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
-   Revise and Resubmit at *Journal of Finance*\
+   Forthcoming at *Journal of Finance*\
    This version: April 2023\
    \[[Paper](../files/BNBC.pdf)\] \[[NBER](https://www.nber.org/papers/w29344)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446225)\] \[[Data](http://structureofnews.com/)\]
    <details><summary>Abstract</summary>

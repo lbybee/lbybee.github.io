@@ -19,28 +19,28 @@ Education
 
 Papers
 ======
-**1. [Surveying Generative AI's Economic Expectations](../files/survey_AI.pdf)**\
+**Surveying Generative AI's Economic Expectations**\
    This version: April 2023\
   \[[Paper](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
 
-**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+**Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    Forthcoming at *Review of Financial Studies*\
    This version: May 2023\
    \[[Paper](../files/narrative_AP.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
 
-**3. Business News and Business Cycles**\
+**Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Revise and Resubmit at *Journal of Finance*\
    This version: April 2023\
    \[[Paper](../files/BNBC.pdf)\] \[[NBER](https://www.nber.org/papers/w29344)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446225)\] \[[Data](http://structureofnews.com/)\]
 
-**4. Macro-based Factors for the Cross-Section of Currency Returns**\
+**Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
     This version: February 2022\
    \[[Paper](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
 
-**5. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
+**Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\

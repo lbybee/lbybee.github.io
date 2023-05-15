@@ -4,15 +4,15 @@ title: "Papers"
 permalink: /papers/
 author_profile: true
 ---
-**1. Surveying Generative AI's Economic Expectations**\
+**Surveying Generative AI's Economic Expectations**\
    This version: April 2023\
-  <small> \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[Paper](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\] </small>
-<div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" ><small>
+  \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[Paper](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
+<div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >
 I introduce a survey of economic expectations formed by querying a large language model (LLM)’s expectations of various financial and macroeconomic variables based on a sample of news articles from the Wall Street Journal between 1984 and 2021. I find the resulting expectations closely match existing surveys including the Survey of Professional Forecasters (SPF), the American Association of Individual Investors, and the Duke CFO Survey. Importantly, I document that LLM based expectations match many of the deviations from full-information rational expectations exhibited in these existing survey series. The LLM’s macroeconomic expectations exhibit under reaction commonly found in consensus SPF forecasts. Additionally, its return expectations are extrapolative, disconnected from objective measures of expected returns, and negatively correlated with future realized returns. Finally, using a sample of articles outside of the LLM’s training period I find that the correlation with existing survey measures persists – indicating these results do not reflect memorization but generalization on the part of the LLM. My results provide evidence for the potential of LLMs to help us better understand human beliefs and navigate possible models of nonrational expectations.
 <IMG src="../files/survey_AI.png"  alt="survey_AI"/>
-</small><br><br/></div>
+</div>
 
-**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+**Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    Forthcoming at *Review of Financial Studies*\
    This version: May 2023\
@@ -23,7 +23,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
     </details>
 
 
-**3. Business News and Business Cycles**\
+**Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Revise and Resubmit at *Journal of Finance*\
    This version: April 2023\
@@ -34,7 +34,7 @@ We propose an approach to measuring the state of the economy via textual analysi
     </details>
 
 
-**4. Macro-based Factors for the Cross-Section of Currency Returns**\
+**Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
     This version: February 2022\
    \[[Paper](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
@@ -44,7 +44,7 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
     </details>
 
 
-**5. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
+**Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\

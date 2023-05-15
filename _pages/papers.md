@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Surveying Generative AI's Economic Expectations**\
    This version: April 2023\
-  \[<a href="#/" onclick="toggle('surveyAI')">Abstract</a>\] \[[Paper](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
+  \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[Paper](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
 <div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >
 I introduce a survey of economic expectations formed by querying a large language model (LLM)’s expectations of various financial and macroeconomic variables based on a sample of news articles from the Wall Street Journal between 1984 and 2021. I find the resulting expectations closely match existing surveys including the Survey of Professional Forecasters (SPF), the American Association of Individual Investors, and the Duke CFO Survey. Importantly, I document that LLM based expectations match many of the deviations from full-information rational expectations exhibited in these existing survey series. The LLM’s macroeconomic expectations exhibit under reaction commonly found in consensus SPF forecasts. Additionally, its return expectations are extrapolative, disconnected from objective measures of expected returns, and negatively correlated with future realized returns. Finally, using a sample of articles outside of the LLM’s training period I find that the correlation with existing survey measures persists – indicating these results do not reflect memorization but generalization on the part of the LLM. My results provide evidence for the potential of LLMs to help us better understand human beliefs and navigate possible models of nonrational expectations.
 <IMG src="../files/survey_AI.png"  alt="survey_AI"/>
@@ -53,3 +53,15 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 Graphical models with change-points are computationally challenging to fit, particularly in cases where the number of observation points and the number of nodes in the graph are large. Focusing on Gaussian graphical models, we introduce an approximate majorize- minimize (MM) algorithm that can be useful for computing change-points in large graphical models. The proposed algorithm is an order of magnitude faster than a brute force search. Under some regularity conditions on the data generating process, we show that with high probability, the algorithm converges to a value that is within statistical error of the true change-point. A fast implementation of the algorithm using Markov Chain Monte Carlo is also introduced. The performances of the proposed algorithms are evaluated on synthetic data sets and the algorithm is also used to analyze structural changes in the S&P 500 over the period 2000-2016.
   <IMG src="../files/GCP.png"  alt="GCP"/>
     </details>
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>

@@ -16,7 +16,7 @@ I introduce a survey of economic expectations formed by querying a large languag
 
 **Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
-   Forthcoming at *Review of Financial Studies*\
+   *Review of Financial Studies*\
    This version: May 2023\
    \[<a href="#/" onclick="visib('narrativeAP')">Abstract</a>\] \[[PDF](../files/narrative_AP.pdf)\] \[[RFS](https://doi.org/10.1093/rfs/hhad042)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
 <div id="narrativeAP" style="display: none; text-align: justify; line-height: 1.2" >

@@ -86,9 +86,3 @@ Graphical models with change-points are computationally challenging to fit, part
   }
 }
 </script>
-
-a:active, a:focus {
-  outline: 0;
-  border: none;
-  -moz-outline-style: none;
-}

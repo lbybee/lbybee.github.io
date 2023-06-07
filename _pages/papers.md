@@ -39,7 +39,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 
 **Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
-    This version: February 2022\
+    This version: May 2023\
       \[<a href="#/" onclick="visib('mIPCA')">Abstract</a>\] \[[PDF](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
 <div id="mIPCA" style="display: none; text-align: justify; line-height: 1.2" >
 We use macroeconomic characteristics and exposures to Carry and Dollar as instruments to estimate a latent factor model with time-varying betas with the instrumented principal components analysis (IPCA) method by Kelly et al. (2020). On a pure out-of-sample basis, this model can explain up to 78% of cross-sectional variation of a Global panel of currencies excess returns, compared to only 27.9% for Dollar and Carry and 51% for a static PCA model. The latent factor and time-varying exposures are directly linked to macroeconomic fundamentals. The most relevant are exports exposures to commodities and US trade, credit over GDP, and interest rate differentials. This model, therefore, sheds light on how to incorporate macroeconomic fundamentals to explain time-series and cross-section.

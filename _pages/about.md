@@ -80,6 +80,35 @@ Graphical models with change-points are computationally challenging to fit, part
 <IMG src="../files/GCP.png"  alt="GCP"/>
 </div>
 
+
+<div id="CodeData">
+</div>
+
+Code & Data
+===========
+- [regIPCA](https://github.com/lbybee/regipca)
+
+    A penalized implementation of instrumented principal components analysis.
+
+- [The Structure of Economic News](http://structureofnews.com/)
+
+    Data and summaries for the 180 topics estimated for Business News and Business Cycles.
+
+    ![Recession Attention](../files/structure_att.png)
+
+- [labbot](https://github.com/lbybee/labbot)
+
+    A set of Python decorators useful for iterative development of research code.
+
+- [IPCA](https://github.com/bkelly-lab/ipca)
+
+    A Python implementation of instrumented principal components analysis.
+
+- [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html)
+
+    An R implementation of a simulated annealing algorithm for change-point detection.
+
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {

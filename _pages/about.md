@@ -11,8 +11,6 @@ I am a PhD candidate in financial economics at the Yale School of Management.  A
 
 Before Yale, I was a researcher at the Booth School of Business, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
 
-<a href="#Papers">Papers</a>
-
 Education
 ======
 * Ph.D in Financial Economics, Yale School of Management

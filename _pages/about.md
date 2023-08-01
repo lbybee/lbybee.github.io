@@ -11,13 +11,15 @@ I am a PhD candidate in financial economics at the Yale School of Management.  A
 
 Before Yale, I was a researcher at the Booth School of Business, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
 
+<a href="Papers">Papers</a>
+
 Education
 ======
 * Ph.D in Financial Economics, Yale School of Management
 * M.S. in Statistics, University of Michigan, 2017
 * B.A. in Economics, University of Chicago, 2013
 
-<div id="Papers">
+<div id="Papers"></div>
 Papers
 ======
 **Surveying Generative AI's Economic Expectations**\
@@ -74,7 +76,6 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 Graphical models with change-points are computationally challenging to fit, particularly in cases where the number of observation points and the number of nodes in the graph are large. Focusing on Gaussian graphical models, we introduce an approximate majorize- minimize (MM) algorithm that can be useful for computing change-points in large graphical models. The proposed algorithm is an order of magnitude faster than a brute force search. Under some regularity conditions on the data generating process, we show that with high probability, the algorithm converges to a value that is within statistical error of the true change-point. A fast implementation of the algorithm using Markov Chain Monte Carlo is also introduced. The performances of the proposed algorithms are evaluated on synthetic data sets and the algorithm is also used to analyze structural changes in the S&P 500 over the period 2000-2016.
 <br>
 <IMG src="../files/GCP.png"  alt="GCP"/>
-</div>
 </div>
 
 [//]: This java script is the button to show abstract

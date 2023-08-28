@@ -94,6 +94,14 @@ Code & Data
 
     ![Recession Attention](../files/structure_att.png)
 
+- [DiSTL](https://github.com/lbybee/DiSTL)
+
+    A collection of implementations for latent Dirichlet allocation
+
+- [glVAR](https://github.com/lbybee/glVAR)
+
+   Group lasso vector autoregression
+
 - [labbot](https://github.com/lbybee/labbot)
 
     A set of Python decorators useful for iterative development of research code.

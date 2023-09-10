@@ -96,11 +96,11 @@ Code & Data
 
 - [DiSTL](https://github.com/lbybee/DiSTL)
 
-    A collection of implementations for latent Dirichlet allocation
+    A collection of implementations for latent Dirichlet allocation.
 
 - [glVAR](https://github.com/lbybee/glVAR)
 
-   Group lasso vector autoregression
+   Group lasso vector autoregression.
 
 - [labbot](https://github.com/lbybee/labbot)
 

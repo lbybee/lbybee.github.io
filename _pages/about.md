@@ -73,6 +73,7 @@ We propose an approach to measuring the state of the economy via textual analysi
    \[<a href="#/" onclick="visib('churn')">Abstract</a>\]
 <div id="churn" style="display: none; text-align: justify; line-height: 1.2" >
    Why do some assets earn higher returns than others? Why are markets so volatile? The CAPM's failure and excess volatility are two of the central puzzles in asset pricing. We propose a new explanation for these puzzles that we term narrative churn: the events or "narratives" that drive asset price variation are constantly changing. By estimating local penalized regressions using textual embeddings extracted from conference call transcripts, we show that (1) narrative churn can explain three times the cross-sectional variation in expected returns as the best static explanations over our sample, (2) narrative churn explains a significantly larger proportion of time-series variation than benchmark models. Finally, we show how our method can be used to decompose the narratives which drive returns to better understand the origins of these puzzles.
+<br>
 </div>
 
 **Machine Learning is Associative Memory**\
@@ -81,6 +82,7 @@ We propose an approach to measuring the state of the economy via textual analysi
    \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
 <div id="MLmemory" style="display: none; text-align: justify; line-height: 1.2" >
     We document a relationship between memory-based models of beliefs and a general class of kernel methods from the statistics and machine learning literature. Motivated by this relationship, we propose a new form a memory-based beliefs which aligns more closely with the state of the art in the machine learning literature. We explore this approach empirically by introducing a measure of ``narrative memory'' -- similarity between states of the world based on similarity in narrative representations of those states. Using textual embeddings extracted from conference call transcripts, we show that our estimates of memory-based beliefs explain variation in errors in long-term growth forecasts of IBES analysts. We conclude by discussing implications of this relationship for the literature on memory-based models of beliefs.
+<br>
 </div>
 
 **Macro-based Factors for the Cross-Section of Currency Returns**\
@@ -107,12 +109,12 @@ Graphical models with change-points are computationally challenging to fit, part
 In-Progress
 ===========
 **Machine Learning and Replicability in Asset Pricing**\
-  (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))\
+  (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))
 
 **The Persistent Origins of Beliefs**\
-   (with [Geoffery Borchhardt](https://borchhardt.com/) and [Kaushik Vasudevan](https://kvasudevan.com/))\
+   (with [Geoffery Borchhardt](https://borchhardt.com/) and [Kaushik Vasudevan](https://kvasudevan.com/))
 
-**Taming the Narrative Zoo**\
+**Taming the Narrative Zoo**
 
 <div id="CodeData">
 </div>

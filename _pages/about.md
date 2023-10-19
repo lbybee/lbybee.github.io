@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in financial economics at the Yale School of Management.  A core contention of my research is that novel empricial measurement is central to scientific progress.  My current focus is on developing measures of beliefs with applications to asset pricing and behavioral economics.
+I am a 5th year PhD candidate in financial economics at the Yale School of Management.  A core contention of my research is that novel empricial measurement is central to scientific progress.  My current focus is on developing measures of beliefs with applications to asset pricing and behavioral economics.
 
 Before Yale, I was a researcher at the Booth School of Business, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
 
+I am on the 2023-2024 academic job market.
+
 Education
-======
-* Ph.D in Financial Economics, Yale School of Management, 2019-2024
-* M.S. in Statistics, University of Michigan, 2015-2017
-* B.A. in Economics, University of Chicago, 2009-2013
+=========
+* Ph.D in Financial Economics, Yale School of Management
+* M.S. in Statistics, University of Michigan, 2017
+* B.A. in Economics, University of Chicago, 2013
 
 <div id="Papers">
 </div>
@@ -23,7 +25,8 @@ Education
 Job Market Paper
 ================
 **The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
-This version: October 2023\
+*Draft coming soon!*\
+Subsumes *Surveying Generative AI's Economic Expectations*\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\]
 <div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >
 I introduce a methodology to simulate economic expectations by applying large language models (LLMs) to historical news. Simulated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations. I employ this method to test behavioral theories of bubbles. Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to aggregate economic sentiment extracted from simulated expectations is associated with a higher probability of a crash and lower future returns. Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
@@ -64,6 +67,21 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/BNBC.png"  alt="BNBC"/>
 </div>
 
+**Asset Pricing with Narrative Churn**\
+   (with Hongyu Wu)\
+   This version: October 2023\
+   \[<a href="#/" onclick="visib('churn')">Abstract</a>\]
+<div id="churn" style="display: none; text-align: justify; line-height: 1.2" >
+   Why do some assets earn higher returns than others? Why are markets so volatile? The CAPM's failure and excess volatility are two of the central puzzles in asset pricing. We propose a new explanation for these puzzles that we term narrative churn: the events or "narratives" that drive asset price variation are constantly changing. By estimating local penalized regressions using textual embeddings extracted from conference call transcripts, we show that (1) narrative churn can explain three times the cross-sectional variation in expected returns as the best static explanations over our sample, (2) narrative churn explains a significantly larger proportion of time-series variation than benchmark models. Finally, we show how our method can be used to decompose the narratives which drive returns to better understand the origins of these puzzles.
+</div>
+
+**Machine Learning is Associative Memory**\
+   (with [Tianshu Lyu](https://www.tianshulyu.com/) and Kangying Zhou)\
+   This version: September 2023\
+   \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
+<div id="MLmemory" style="display: none; text-align: justify; line-height: 1.2" >
+    We document a relationship between memory-based models of beliefs and a general class of kernel methods from the statistics and machine learning literature. Motivated by this relationship, we propose a new form a memory-based beliefs which aligns more closely with the state of the art in the machine learning literature. We explore this approach empirically by introducing a measure of ``narrative memory'' -- similarity between states of the world based on similarity in narrative representations of those states. Using textual embeddings extracted from conference call transcripts, we show that our estimates of memory-based beliefs explain variation in errors in long-term growth forecasts of IBES analysts. We conclude by discussing implications of this relationship for the literature on memory-based models of beliefs.
+</div>
 
 **Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
@@ -74,7 +92,6 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 <br>
 <IMG src="../files/mIPCA.png"  alt="mIPCA"/>
 </div>
-
 
 **Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
@@ -87,6 +104,15 @@ Graphical models with change-points are computationally challenging to fit, part
 <IMG src="../files/GCP.png"  alt="GCP"/>
 </div>
 
+In-Progress
+===========
+**Machine Learning and Replicability in Asset Pricing**\
+  (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))\
+
+**The Persistent Origins of Beliefs**\
+   (with [Geoffery Borchhardt](https://borchhardt.com/) and [Kaushik Vasudevan](https://kvasudevan.com/))\
+
+**Taming the Narrative Zoo**\
 
 <div id="CodeData">
 </div>
@@ -95,7 +121,7 @@ Code & Data
 ===========
 - [regIPCA](https://github.com/lbybee/regipca)
 
-    A penalized implementation of instrumented principal components analysis.
+    A penalized implementation of instrumented principal components analysis in Python.
 
 - [The Structure of Economic News](http://structureofnews.com/)
 
@@ -105,11 +131,11 @@ Code & Data
 
 - [DiSTL](https://github.com/lbybee/DiSTL)
 
-    A collection of implementations for latent Dirichlet allocation.
+    A collection of efficient Gibbs sampling implementations for latent Dirichlet allocation in Python.
 
 - [glVAR](https://github.com/lbybee/glVAR)
 
-   Group lasso vector autoregression.
+   A fast method for group lasso vector autoregression in Python.
 
 - [labbot](https://github.com/lbybee/labbot)
 
@@ -122,7 +148,6 @@ Code & Data
 - [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html)
 
     An R implementation of a simulated annealing algorithm for change-point detection.
-
 
 [//]: This java script is the button to show abstract
 <script>

@@ -30,6 +30,7 @@ Subsumes *Surveying Generative AI's Economic Expectations*\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\]
 <div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >
 I introduce a methodology to simulate economic expectations by applying large language models (LLMs) to historical news. Simulated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations. I employ this method to test behavioral theories of bubbles. Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to aggregate economic sentiment extracted from simulated expectations is associated with a higher probability of a crash and lower future returns. Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
+<br>
 </div>
 
 Papers

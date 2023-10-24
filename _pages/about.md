@@ -25,7 +25,7 @@ Education
 Job Market Paper
 ================
 **The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
-*Draft coming soon!*\
+*Public draft coming soon!*\
 Subsumes *Surveying Generative AI's Economic Expectations*\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\]
 <div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >

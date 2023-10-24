@@ -131,7 +131,7 @@ Code & Data
 
 - [The Structure of Economic News](http://structureofnews.com/)
 
-    Data and summaries for the 180 topics estimated for Business News and Business Cycles.
+    Data and summaries for the 180 topics estimated for *Business News and Business Cycles*.
 
     ![Recession Attention](../files/structure_att.png)
 
@@ -153,7 +153,7 @@ Code & Data
 
 - [statsmodels](https://github.com/statsmodels/statsmodels)
 
-    Implement the distributed estimation procedure of Lee et al. (2015) for penalized estimators.
+    Implements the distributed estimation procedure of Lee et al. (2015) for penalized estimators.
 
 - [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html)
 

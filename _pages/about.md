@@ -39,19 +39,7 @@ I introduce a methodology to simulate economic expectations by applying large la
 Publications
 ============
 ---
-**1. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
-   (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
-   *Review of Financial Studies*\
-   This version: May 2023\
-   \[<a href="#/" onclick="visib('narrativeAP')">Abstract</a>\] \[[PDF](../files/narrative_AP.pdf)\] \[[RFS](https://doi.org/10.1093/rfs/hhad042)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
-<div id="narrativeAP" style="display: none; text-align: justify; line-height: 1.2" >
-We estimate a narrative factor pricing model from news text of The Wall Street Journal. Our empirical method integrates topic modeling (LDA), latent factor analysis (IPCA), and variable selection (group lasso). Narrative factors achieve higher out-of-sample Sharpe ratios and smaller pricing errors than standard characteristic-based factor models and predict future investment opportunities in a manner consistent with the ICAPM. We derive an interpretation of the estimated risk factors from narratives in the underlying article text.
-<br>
-<IMG src="../files/narrative_AP.png"  alt="narrative_AP"/>
-</div>
-
-
-**2. Business News and Business Cycles**\
+**1. Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Forthcoming at *Journal of Finance*\
    This version: April 2023\
@@ -60,6 +48,17 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 We propose an approach to measuring the state of the economy via textual analysis of business news. From the full text of 800,000 Wall Street Journal articles for 1984–2017, we estimate a topic model that summarizes business news into interpretable topical themes and quantifies the proportion of news attention allocated to each theme over time. News attention closely tracks a wide range of economic activities and explains 25% of aggregate stock market returns. A text-augmented VAR demonstrates the large incremental role of news text in modeling macroeconomic dynamics. We use this model to retrieve the narratives that underlie business cycle fluctuations.
 <br>
 <IMG src="../files/BNBC.png"  alt="BNBC"/>
+</div>
+
+**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+   (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
+   *Review of Financial Studies*\
+   This version: May 2023\
+   \[<a href="#/" onclick="visib('narrativeAP')">Abstract</a>\] \[[PDF](../files/narrative_AP.pdf)\] \[[RFS](https://doi.org/10.1093/rfs/hhad042)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895277)\] \[[Code](https://github.com/lbybee/regipca)\] \[[Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VIWCTK)\]
+<div id="narrativeAP" style="display: none; text-align: justify; line-height: 1.2" >
+We estimate a narrative factor pricing model from news text of The Wall Street Journal. Our empirical method integrates topic modeling (LDA), latent factor analysis (IPCA), and variable selection (group lasso). Narrative factors achieve higher out-of-sample Sharpe ratios and smaller pricing errors than standard characteristic-based factor models and predict future investment opportunities in a manner consistent with the ICAPM. We derive an interpretation of the estimated risk factors from narratives in the underlying article text.
+<br>
+<IMG src="../files/narrative_AP.png"  alt="narrative_AP"/>
 </div>
 
 **3. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\

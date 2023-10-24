@@ -151,6 +151,10 @@ Code & Data
 
     A Python implementation of instrumented principal components analysis.
 
+- [statsmodels](https://github.com/statsmodels/statsmodels)
+
+    Implement the distributed estimation procedure of Lee et al. (2015) for penalized estimators.
+
 - [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html)
 
     An R implementation of a simulated annealing algorithm for change-point detection.

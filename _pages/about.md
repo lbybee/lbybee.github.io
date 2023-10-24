@@ -26,7 +26,7 @@ Education
 Job Market Paper
 ================
 ---
-**The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
+**1. The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
 *Public draft coming soon!*\
 Subsumes *Surveying Generative AI's Economic Expectations*\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\]
@@ -39,7 +39,7 @@ I introduce a methodology to simulate economic expectations by applying large la
 Publications
 ============
 ---
-**1. Business News and Business Cycles**\
+**2. Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Forthcoming at *Journal of Finance*\
    This version: April 2023\
@@ -50,7 +50,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/BNBC.png"  alt="BNBC"/>
 </div>
 
-**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+**3. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    *Review of Financial Studies*\
    This version: May 2023\
@@ -61,7 +61,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 <IMG src="../files/narrative_AP.png"  alt="narrative_AP"/>
 </div>
 
-**3. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
+**4. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\
@@ -75,7 +75,7 @@ Graphical models with change-points are computationally challenging to fit, part
 Working Papers
 ==============
 ---
-**4. Surveying Generative AI's Economic Expectations**\
+**Surveying Generative AI's Economic Expectations**\
    This version: April 2023\
   \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[PDF](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
 <div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >

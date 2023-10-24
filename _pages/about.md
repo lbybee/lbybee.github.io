@@ -15,6 +15,7 @@ I am on the 2023-2024 academic job market.
 
 Education
 =========
+---
 * Ph.D. in Financial Economics, Yale School of Management
 * M.S. in Statistics, University of Michigan, 2017
 * B.A. in Economics, University of Chicago, 2013
@@ -24,6 +25,7 @@ Education
 
 Job Market Paper
 ================
+---
 **The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
 *Public draft coming soon!*\
 Subsumes *Surveying Generative AI's Economic Expectations*\
@@ -36,6 +38,7 @@ I introduce a methodology to simulate economic expectations by applying large la
 
 Publications
 ============
+---
 **1. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    *Review of Financial Studies*\
@@ -72,6 +75,7 @@ Graphical models with change-points are computationally challenging to fit, part
 
 Working Papers
 ==============
+---
 **4. Surveying Generative AI's Economic Expectations**\
    This version: April 2023\
   \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[PDF](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
@@ -116,6 +120,7 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 
 Selected Work In-Progress
 =========================
+---
 **8. Machine Learning and Replicability in Asset Pricing**\
   (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))
 
@@ -129,6 +134,7 @@ Selected Work In-Progress
 
 Code & Data
 ===========
+---
 - [regIPCA](https://github.com/lbybee/regipca)
 
     A penalized implementation of instrumented principal components analysis in Python.

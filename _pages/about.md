@@ -149,7 +149,7 @@ Code & Data
 
 - [IPCA](https://github.com/bkelly-lab/ipca)
 
-    A Python implementation of instrumented principal components analysis.
+    A Python implementation of instrumented principal components analysis (with [Matthias Buchner](https://www.mbuechner.com/)).
 
 - [statsmodels](https://github.com/statsmodels/statsmodels)
 

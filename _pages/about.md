@@ -162,7 +162,7 @@ Code & Data
 
 - [statsmodels](https://github.com/statsmodels/statsmodels)
 
-    Implements the distributed estimation procedure of Lee et al. (2015) for penalized estimators.
+    I contribute the distributed estimation procedure of Lee et al. (2015) for penalized estimators.
 
 - [changepointsHD](https://cran.r-project.org/web/packages/changepointsHD/index.html)
 

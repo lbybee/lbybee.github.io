@@ -24,7 +24,7 @@ Education
 
 Job Market Paper
 ================
-**The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
+**0. The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
 *Draft coming soon!*\
 Subsumes *Surveying Generative AI's Economic Expectations*\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\]
@@ -34,19 +34,9 @@ I introduce a methodology to simulate economic expectations by applying large la
 <IMG src="../files/LLM.png"  alt="LLM"/>
 </div>
 
-Papers
-======
-**1. Surveying Generative AI's Economic Expectations**\
-   This version: April 2023\
-  \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[PDF](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
-<div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >
-I introduce a survey of economic expectations formed by querying a large language model (LLM)’s expectations of various financial and macroeconomic variables based on a sample of news articles from the Wall Street Journal between 1984 and 2021. I find the resulting expectations closely match existing surveys including the Survey of Professional Forecasters (SPF), the American Association of Individual Investors, and the Duke CFO Survey. Importantly, I document that LLM based expectations match many of the deviations from full-information rational expectations exhibited in these existing survey series. The LLM’s macroeconomic expectations exhibit under reaction commonly found in consensus SPF forecasts. Additionally, its return expectations are extrapolative, disconnected from objective measures of expected returns, and negatively correlated with future realized returns. Finally, using a sample of articles outside of the LLM’s training period I find that the correlation with existing survey measures persists – indicating these results do not reflect memorization but generalization on the part of the LLM. My results provide evidence for the potential of LLMs to help us better understand human beliefs and navigate possible models of nonrational expectations.
-<br>
-<IMG src="../files/survey_AI.png"  alt="survey_AI"/>
-</div>
-
-
-**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+Publications
+============
+**1. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    *Review of Financial Studies*\
    This version: May 2023\
@@ -58,7 +48,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 </div>
 
 
-**3. Business News and Business Cycles**\
+**2. Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Forthcoming at *Journal of Finance*\
    This version: April 2023\
@@ -69,37 +59,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/BNBC.png"  alt="BNBC"/>
 </div>
 
-**4. Asset Pricing with Narrative Churn**\
-   (with Hongyu Wu)\
-   This version: October 2023\
-   \[<a href="#/" onclick="visib('churn')">Abstract</a>\]
-<div id="churn" style="display: none; text-align: justify; line-height: 1.2" >
-   Why do some assets earn higher returns than others? Why are markets so volatile? The CAPM's failure and excess volatility are two of the central puzzles in asset pricing. We propose a new explanation for these puzzles that we term narrative churn: the events or "narratives" that drive asset price variation are constantly changing. By estimating local penalized regressions using textual embeddings extracted from conference call transcripts, we show that (1) narrative churn can explain three times the cross-sectional variation in expected returns as the best static explanations over our sample, (2) narrative churn explains a significantly larger proportion of time-series variation than benchmark models. Finally, we show how our method can be used to decompose the narratives which drive returns to better understand the origins of these puzzles.
-<br>
-<IMG src="../files/churn.png"  alt="churn"/>
-</div>
-
-**5. Machine Learning is Associative Memory**\
-   (with [Tianshu Lyu](https://www.tianshulyu.com/) and Kangying Zhou)\
-   This version: September 2023\
-   \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
-<div id="MLmemory" style="display: none; text-align: justify; line-height: 1.2" >
-    We document a relationship between memory-based models of beliefs and a general class of kernel methods from the statistics and machine learning literature. Motivated by this relationship, we propose a new form a memory-based beliefs which aligns more closely with the state of the art in the machine learning literature. We explore this approach empirically by introducing a measure of "narrative memory" -- similarity between states of the world based on similarity in narrative representations of those states. Using textual embeddings extracted from conference call transcripts, we show that our estimates of memory-based beliefs explain variation in errors in long-term growth forecasts of IBES analysts. We conclude by discussing implications of this relationship for the literature on memory-based models of beliefs.
-<br>
-<IMG src="../files/MLmemory.png"  alt="MLmemory"/>
-</div>
-
-**6. Macro-based Factors for the Cross-Section of Currency Returns**\
-    (with Leandro Gomes and Joao Valente)\
-    This version: May 2023\
-      \[<a href="#/" onclick="visib('mIPCA')">Abstract</a>\] \[[PDF](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
-<div id="mIPCA" style="display: none; text-align: justify; line-height: 1.2" >
-We use macroeconomic characteristics and exposures to Carry and Dollar as instruments to estimate a latent factor model with time-varying betas with the instrumented principal components analysis (IPCA) method by Kelly et al. (2020). On a pure out-of-sample basis, this model can explain up to 78% of cross-sectional variation of a Global panel of currencies excess returns, compared to only 27.9% for Dollar and Carry and 51% for a static PCA model. The latent factor and time-varying exposures are directly linked to macroeconomic fundamentals. The most relevant are exports exposures to commodities and US trade, credit over GDP, and interest rate differentials. This model, therefore, sheds light on how to incorporate macroeconomic fundamentals to explain time-series and cross-section.
-<br>
-<IMG src="../files/mIPCA.png"  alt="mIPCA"/>
-</div>
-
-**7. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
+**3. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\
@@ -110,8 +70,52 @@ Graphical models with change-points are computationally challenging to fit, part
 <IMG src="../files/GCP.png"  alt="GCP"/>
 </div>
 
+Working Papers
+==============
+**4. Surveying Generative AI's Economic Expectations**\
+   This version: April 2023\
+  \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[PDF](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
+<div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >
+I introduce a survey of economic expectations formed by querying a large language model (LLM)’s expectations of various financial and macroeconomic variables based on a sample of news articles from the Wall Street Journal between 1984 and 2021. I find the resulting expectations closely match existing surveys including the Survey of Professional Forecasters (SPF), the American Association of Individual Investors, and the Duke CFO Survey. Importantly, I document that LLM based expectations match many of the deviations from full-information rational expectations exhibited in these existing survey series. The LLM’s macroeconomic expectations exhibit under reaction commonly found in consensus SPF forecasts. Additionally, its return expectations are extrapolative, disconnected from objective measures of expected returns, and negatively correlated with future realized returns. Finally, using a sample of articles outside of the LLM’s training period I find that the correlation with existing survey measures persists – indicating these results do not reflect memorization but generalization on the part of the LLM. My results provide evidence for the potential of LLMs to help us better understand human beliefs and navigate possible models of nonrational expectations.
+<br>
+<IMG src="../files/survey_AI.png"  alt="survey_AI"/>
+</div>
+
+
+
+**5. Asset Pricing with Narrative Churn**\
+   (with Hongyu Wu)\
+   This version: October 2023\
+   \[<a href="#/" onclick="visib('churn')">Abstract</a>\]
+<div id="churn" style="display: none; text-align: justify; line-height: 1.2" >
+   Why do some assets earn higher returns than others? Why are markets so volatile? The CAPM's failure and excess volatility are two of the central puzzles in asset pricing. We propose a new explanation for these puzzles that we term narrative churn: the events or "narratives" that drive asset price variation are constantly changing. By estimating local penalized regressions using textual embeddings extracted from conference call transcripts, we show that (1) narrative churn can explain three times the cross-sectional variation in expected returns as the best static explanations over our sample, (2) narrative churn explains a significantly larger proportion of time-series variation than benchmark models. Finally, we show how our method can be used to decompose the narratives which drive returns to better understand the origins of these puzzles.
+<br>
+<IMG src="../files/churn.png"  alt="churn"/>
+</div>
+
+**6. Associative Memory is Machine Learning**\
+   (with [Tianshu Lyu](https://www.tianshulyu.com/) and Kangying Zhou)\
+   This version: September 2023\
+   \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
+<div id="MLmemory" style="display: none; text-align: justify; line-height: 1.2" >
+    We document a relationship between memory-based models of beliefs and a general class of kernel methods from the statistics and machine learning literature. Motivated by this relationship, we propose a new form a memory-based beliefs which aligns more closely with the state of the art in the machine learning literature. We explore this approach empirically by introducing a measure of "narrative memory" -- similarity between states of the world based on similarity in narrative representations of those states. Using textual embeddings extracted from conference call transcripts, we show that our estimates of memory-based beliefs explain variation in errors in long-term growth forecasts of IBES analysts. We conclude by discussing implications of this relationship for the literature on memory-based models of beliefs.
+<br>
+<IMG src="../files/MLmemory.png"  alt="MLmemory"/>
+</div>
+
+**7. Macro-based Factors for the Cross-Section of Currency Returns**\
+    (with Leandro Gomes and Joao Valente)\
+    This version: May 2023\
+      \[<a href="#/" onclick="visib('mIPCA')">Abstract</a>\] \[[PDF](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
+<div id="mIPCA" style="display: none; text-align: justify; line-height: 1.2" >
+We use macroeconomic characteristics and exposures to Carry and Dollar as instruments to estimate a latent factor model with time-varying betas with the instrumented principal components analysis (IPCA) method by Kelly et al. (2020). On a pure out-of-sample basis, this model can explain up to 78% of cross-sectional variation of a Global panel of currencies excess returns, compared to only 27.9% for Dollar and Carry and 51% for a static PCA model. The latent factor and time-varying exposures are directly linked to macroeconomic fundamentals. The most relevant are exports exposures to commodities and US trade, credit over GDP, and interest rate differentials. This model, therefore, sheds light on how to incorporate macroeconomic fundamentals to explain time-series and cross-section.
+<br>
+<IMG src="../files/mIPCA.png"  alt="mIPCA"/>
+</div>
+
+
 Selected Work In-Progress
-===========
+=========================
 **8. Machine Learning and Replicability in Asset Pricing**\
   (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))
 

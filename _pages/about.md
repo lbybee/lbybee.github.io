@@ -36,7 +36,7 @@ I introduce a methodology to simulate economic expectations by applying large la
 
 Papers
 ======
-1. **Surveying Generative AI's Economic Expectations**\
+**1. Surveying Generative AI's Economic Expectations**\
    This version: April 2023\
   \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[PDF](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
 <div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >
@@ -46,7 +46,7 @@ I introduce a survey of economic expectations formed by querying a large languag
 </div>
 
 
-2. **Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    *Review of Financial Studies*\
    This version: May 2023\
@@ -58,7 +58,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 </div>
 
 
-3. **Business News and Business Cycles**\
+**3. Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Forthcoming at *Journal of Finance*\
    This version: April 2023\
@@ -69,7 +69,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/BNBC.png"  alt="BNBC"/>
 </div>
 
-4. **Asset Pricing with Narrative Churn**\
+**4. Asset Pricing with Narrative Churn**\
    (with Hongyu Wu)\
    This version: October 2023\
    \[<a href="#/" onclick="visib('churn')">Abstract</a>\]
@@ -79,7 +79,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/churn.png"  alt="churn"/>
 </div>
 
-5. **Machine Learning is Associative Memory**\
+**5. Machine Learning is Associative Memory**\
    (with [Tianshu Lyu](https://www.tianshulyu.com/) and Kangying Zhou)\
    This version: September 2023\
    \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
@@ -89,7 +89,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/MLmemory.png"  alt="MLmemory"/>
 </div>
 
-6. **Macro-based Factors for the Cross-Section of Currency Returns**\
+**6. Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
     This version: May 2023\
       \[<a href="#/" onclick="visib('mIPCA')">Abstract</a>\] \[[PDF](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]
@@ -99,7 +99,7 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 <IMG src="../files/mIPCA.png"  alt="mIPCA"/>
 </div>
 
-7. **Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
+**7. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\
@@ -112,13 +112,13 @@ Graphical models with change-points are computationally challenging to fit, part
 
 Selected Work In-Progress
 ===========
-8. **Machine Learning and Replicability in Asset Pricing**\
+**8. Machine Learning and Replicability in Asset Pricing**\
   (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))
 
-9. **The Persistent Origins of Beliefs**\
+**9. The Persistent Origins of Beliefs**\
    (with [Geoffrey Borchhardt](https://borchhardt.com/) and [Kaushik Vasudevan](https://kvasudevan.com/))
 
-10. **Taming the Narrative Zoo**
+**10. Taming the Narrative Zoo**
 
 <div id="CodeData">
 </div>

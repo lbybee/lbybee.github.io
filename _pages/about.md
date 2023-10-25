@@ -116,20 +116,6 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 <IMG src="../files/mIPCA.png"  alt="mIPCA"/>
 </div>
 
-
-Selected Work In-Progress
-=========================
----
-**8. A Theory of Large Language Models as Behavioral Agents**
-
-**9. Machine Learning and Replicability in Asset Pricing**\
-  (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))
-
-**10. The Persistent Origins of Beliefs**\
-   (with [Geoffrey Borchhardt](https://borchhardt.com/) and [Kaushik Vasudevan](https://kvasudevan.com/))
-
-**11. Taming the Narrative Zoo**
-
 <div id="CodeData">
 </div>
 

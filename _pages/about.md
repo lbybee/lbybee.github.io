@@ -120,13 +120,15 @@ We use macroeconomic characteristics and exposures to Carry and Dollar as instru
 Selected Work In-Progress
 =========================
 ---
-**8. Machine Learning and Replicability in Asset Pricing**\
+**8. A Theory of Large Language Models as Behavioral Agents**
+
+**9. Machine Learning and Replicability in Asset Pricing**\
   (with [Theis Jensen](https://sites.google.com/view/theis-ingerslev-jensen/home))
 
-**9. The Persistent Origins of Beliefs**\
+**10. The Persistent Origins of Beliefs**\
    (with [Geoffrey Borchhardt](https://borchhardt.com/) and [Kaushik Vasudevan](https://kvasudevan.com/))
 
-**10. Taming the Narrative Zoo**
+**11. Taming the Narrative Zoo**
 
 <div id="CodeData">
 </div>

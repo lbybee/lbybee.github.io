@@ -97,7 +97,7 @@ I introduce a survey of economic expectations formed by querying a large languag
 </div>
 
 **6. Associative Memory is Machine Learning**\
-   (with [Tianshu Lyu](https://www.tianshulyu.com/) and Kangying Zhou)\
+   (with [Tianshu Lyu](https://www.tianshulyu.com/))\
    This version: September 2023\
    \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
 <div id="MLmemory" style="display: none; text-align: justify; line-height: 1.2" >

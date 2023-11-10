@@ -26,12 +26,11 @@ Education
 Job Market Paper
 ================
 ---
-**1. The Ghost in the Machine: Simulating Beliefs with Large Language Models**\
-*Public draft coming soon!*\
+**1. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
 Subsumes *Surveying Generative AI's Economic Expectations*\
-  \[<a href="#/" onclick="visib('LLM')">Abstract</a>\]
+  \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]
 <div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >
-I introduce a methodology to simulate economic expectations by applying large language models (LLMs) to historical news. Simulated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations. I employ this method to test behavioral theories of bubbles. Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to aggregate economic sentiment extracted from simulated expectations is associated with a higher probability of a crash and lower future returns. Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
+I introduce a methodology to generate economic expectations by applying large language models to historical news.  Leveraging this methodology, I make three key contributions.  (1) I show generated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations.  (2) I use my method to generate 120 years of economic expectations from which I construct a measure of economic sentiment capturing systematic errors in generated expectations.  (3) I then employ this measure to investigate behavioral theories of bubbles.  Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to economic sentiment is associated with a higher probability of a crash and lower future returns.  Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
 <br>
 <IMG src="../files/LLM.png"  alt="LLM"/>
 </div>
@@ -75,16 +74,6 @@ Graphical models with change-points are computationally challenging to fit, part
 Working Papers
 ==============
 ---
-**Surveying Generative AI's Economic Expectations**\
-   This version: April 2023\
-  \[<a href="#/" onclick="visib('surveyAI')">Abstract</a>\] \[[PDF](../files/survey_AI.pdf)\] \[[ArXiv](https://arxiv.org/abs/2305.02823)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)\]
-<div id="surveyAI" style="display: none; text-align: justify; line-height: 1.2" >
-I introduce a survey of economic expectations formed by querying a large language model (LLM)’s expectations of various financial and macroeconomic variables based on a sample of news articles from the Wall Street Journal between 1984 and 2021. I find the resulting expectations closely match existing surveys including the Survey of Professional Forecasters (SPF), the American Association of Individual Investors, and the Duke CFO Survey. Importantly, I document that LLM based expectations match many of the deviations from full-information rational expectations exhibited in these existing survey series. The LLM’s macroeconomic expectations exhibit under reaction commonly found in consensus SPF forecasts. Additionally, its return expectations are extrapolative, disconnected from objective measures of expected returns, and negatively correlated with future realized returns. Finally, using a sample of articles outside of the LLM’s training period I find that the correlation with existing survey measures persists – indicating these results do not reflect memorization but generalization on the part of the LLM. My results provide evidence for the potential of LLMs to help us better understand human beliefs and navigate possible models of nonrational expectations.
-<br>
-<IMG src="../files/survey_AI.png"  alt="survey_AI"/>
-</div>
-
-
 
 **5. Asset Pricing with Narrative Churn**\
    (with Hongyu Wu)\

@@ -27,7 +27,7 @@ Job Market Paper
 ================
 ---
 **1. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
-Subsumes *Surveying Generative AI's Economic Expectations*\
+Subsumes *[Surveying Generative AI's Economic Expectations](../files/survey_AI.pdf)*\
 This version: November 2023\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]
 <div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >

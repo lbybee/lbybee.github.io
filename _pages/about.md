@@ -29,7 +29,7 @@ Job Market Paper
 **1. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
 This version: November 2023\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]\
-Subsumes *[Surveying Generative AI's Economic Expectations](../files/survey_AI.pdf)*
+Subsumes *[Surveying Generative AI's Economic Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)*
 <div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >
 I introduce a methodology to generate economic expectations by applying large language models to historical news.  Leveraging this methodology, I make three key contributions.  (1) I show generated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations.  (2) I use my method to generate 120 years of economic expectations from which I construct a measure of economic sentiment capturing systematic errors in generated expectations.  (3) I then employ this measure to investigate behavioral theories of bubbles.  Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to economic sentiment is associated with a higher probability of a crash and lower future returns.  Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
 <br>

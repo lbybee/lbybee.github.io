@@ -27,7 +27,7 @@ Job Market Paper
 ================
 ---
 **1. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
-This version: November 2023\
+This version: December 2023\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]\
 Finalist for *BlackRock Applied Research Award*\
 Subsumes *[Surveying Generative AI's Economic Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)*

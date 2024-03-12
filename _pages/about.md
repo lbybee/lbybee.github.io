@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I will be joining the Chicago Booth School of Business as an assistant professor of finance this summer.
+
 I am a 5th year PhD candidate in financial economics at the Yale School of Management.  Much of my work leverages machine learning and natural language processing to address key questions in economics and finance.  My current focus is on developing measures of beliefs with applications to asset pricing and behavioral economics.
 
-Before Yale, I was a researcher at the Booth School of Business, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
-
-I am on the 2023-2024 academic job market.
+Before Yale, I was a researcher at Booth, received a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
 
 Education
 =========

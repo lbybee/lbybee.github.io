@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leland Bybee"
 title_separator          : "-"
 name                     : &name "Leland Bybee"
-description              : &description "PhD candidate at Yale SOM"
+description              : &description "Assistant  Professor of Finance at Chicago Booth"
 url                      : https://lelandbybee.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lbybee/lbybee.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Leland Bybee"
   avatar           : "headshot_square.png"
-  bio              : "PhD candidate at Yale SOM"
+  bio              : "Assistant Professor of Finance at Chicago Booth"
   location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=8KKADu0AAAAJ&hl=en"
-  email            : leland.bybee@yale.edu
+  email            : leland.bybee@chicagobooth.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

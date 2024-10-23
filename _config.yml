@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leland Bybee"
 title_separator          : "-"
 name                     : &name "Leland Bybee"
-description              : &description "Assistant  Professor of Finance at Chicago Booth"
+description              : &description "Assistant  Professor of Finance at the University of Chicago Booth School of Business"
 url                      : https://lelandbybee.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lbybee/lbybee.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Leland Bybee"
   avatar           : "headshot_square.png"
-  bio              : "Assistant Professor of Finance at Chicago Booth"
+  bio              : "Assistant Professor of Finance at the University of Chicago Booth School of Business"
   location         :
   employer         :
   pubmed           :

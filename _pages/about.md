@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an assistant professor of finance at the Chicago Booth School of Business. Much of my work leverages machine learning and natural language processing to address key questions in economics and finance.  My current focus is on developing measures of beliefs with applications to asset pricing and behavioral economics.
+I am an assistant professor of finance at the University of Chicago Booth School of Business. Much of my work leverages machine learning and natural language processing to address key questions in economics and finance.  My current focus is on developing measures of beliefs with applications to asset pricing and behavioral economics.
 
 Before Booth, I received a PhD in financial economics from the Yale School of Mangement, a master's degree in statistics from the University of Michigan, and completed my undergraduate degree in economics at the University of Chicago.
 

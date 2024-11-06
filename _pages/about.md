@@ -21,27 +21,10 @@ Education
 <div id="Papers">
 </div>
 
-Job Market Paper
-================
----
-**1. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
-This version: December 2023\
-  \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]\
-*BlackRock Applied Research Award*\
-*Top Finance Graduate Award*\
-*The Brattle Group PhD Candidates Awards for Outstanding Research*\
-*EFA Engelbert Dockner Memorial Prize for the Best Paper by Young Researchers*\
-Subsumes *[Surveying Generative AI's Economic Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)*
-<div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >
-I introduce a methodology to generate economic expectations by applying large language models to historical news.  Leveraging this methodology, I make three key contributions.  (1) I show generated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations.  (2) I use my method to generate 120 years of economic expectations from which I construct a measure of economic sentiment capturing systematic errors in generated expectations.  (3) I then employ this measure to investigate behavioral theories of bubbles.  Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to economic sentiment is associated with a higher probability of a crash and lower future returns.  Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
-<br>
-<IMG src="../files/LLM.png"  alt="LLM"/>
-</div>
-
 Publications
 ============
 ---
-**2. Business News and Business Cycles**\
+**1. Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
    Forthcoming at *Journal of Finance*\
    This version: April 2023\
@@ -52,7 +35,7 @@ We propose an approach to measuring the state of the economy via textual analysi
 <IMG src="../files/BNBC.png"  alt="BNBC"/>
 </div>
 
-**3. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
+**2. Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/) and [Yinan Su](https://www.suyinan.com/))\
    *Review of Financial Studies*\
    This version: May 2023\
@@ -63,7 +46,7 @@ We estimate a narrative factor pricing model from news text of The Wall Street J
 <IMG src="../files/narrative_AP.png"  alt="narrative_AP"/>
 </div>
 
-**4. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
+**3. Change-point Computation for Large Graphical Models: A Scalable Algorithm for Gaussian Graphical Models with Change-points**\
     (with [Yves Atchadé](https://math.bu.edu/people/atchade/))\
     *Journal of Machine Learning Research*\
     This version: January 2018\
@@ -77,6 +60,21 @@ Graphical models with change-points are computationally challenging to fit, part
 Working Papers
 ==============
 ---
+
+**4. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
+This version: December 2023\
+  \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]\
+*BlackRock Applied Research Award*\
+*Top Finance Graduate Award*\
+*The Brattle Group PhD Candidates Awards for Outstanding Research*\
+*EFA Engelbert Dockner Memorial Prize for the Best Paper by Young Researchers*\
+Subsumes *[Surveying Generative AI's Economic Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)*
+<div id="LLM" style="display: none; text-align: justify; line-height: 1.2" >
+I introduce a methodology to generate economic expectations by applying large language models to historical news.  Leveraging this methodology, I make three key contributions.  (1) I show generated expectations closely match existing survey measures and capture many of the same deviations from full-information rational expectations.  (2) I use my method to generate 120 years of economic expectations from which I construct a measure of economic sentiment capturing systematic errors in generated expectations.  (3) I then employ this measure to investigate behavioral theories of bubbles.  Using a sample of industry-level run-ups over the past 100 years, I find that an industry's exposure to economic sentiment is associated with a higher probability of a crash and lower future returns.  Additionally, I find a higher degree of feedback between returns and sentiment during run-ups that crash, consistent with return extrapolation as a key mechanism behind bubbles.
+<br>
+<IMG src="../files/LLM.png"  alt="LLM"/>
+</div>
+
 
 **5. Associative Memory is Machine Learning**\
    (with [Tianshu Lyu](https://www.tianshulyu.com/))\

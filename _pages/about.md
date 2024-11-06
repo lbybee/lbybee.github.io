@@ -75,17 +75,7 @@ Working Papers
 ==============
 ---
 
-**5. Asset Pricing with Narrative Churn**\
-   (with Hongyu Wu)\
-   This version: October 2023\
-   \[<a href="#/" onclick="visib('churn')">Abstract</a>\]
-<div id="churn" style="display: none; text-align: justify; line-height: 1.2" >
-   Why do some assets earn higher returns than others? Why are markets so volatile? The CAPM's failure and excess volatility are two of the central puzzles in asset pricing. We propose a new explanation for these puzzles that we term narrative churn: the events or "narratives" that drive asset price variation are constantly changing. By estimating local penalized regressions using textual embeddings extracted from conference call transcripts, we show that (1) narrative churn can explain three times the cross-sectional variation in expected returns as the best static explanations over our sample, (2) narrative churn explains a significantly larger proportion of time-series variation than benchmark models. Finally, we show how our method can be used to decompose the narratives which drive returns to better understand the origins of these puzzles.
-<br>
-<IMG src="../files/churn.png"  alt="churn"/>
-</div>
-
-**6. Associative Memory is Machine Learning**\
+**5. Associative Memory is Machine Learning**\
    (with [Tianshu Lyu](https://www.tianshulyu.com/))\
    This version: September 2023\
    \[<a href="#/" onclick="visib('MLmemory')">Abstract</a>\]
@@ -95,7 +85,7 @@ Working Papers
 <IMG src="../files/MLmemory.png"  alt="MLmemory"/>
 </div>
 
-**7. Macro-based Factors for the Cross-Section of Currency Returns**\
+**6. Macro-based Factors for the Cross-Section of Currency Returns**\
     (with Leandro Gomes and Joao Valente)\
     This version: May 2023\
       \[<a href="#/" onclick="visib('mIPCA')">Abstract</a>\] \[[PDF](../files/mIPCA.pdf)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4400205)\] \[[Code](https://github.com/bkelly-lab/ipca)\]

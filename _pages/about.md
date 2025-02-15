@@ -26,7 +26,7 @@ Publications
 ---
 **1. Business News and Business Cycles**\
    (with [Bryan Kelly](https://www.bryankellyacademic.org/), [Asaf Manela](https://asafmanela.github.io/), and [Dacheng Xiu](https://dachxiu.chicagobooth.edu/))\
-   Forthcoming at *Journal of Finance*\
+   *Journal of Finance*\
    This version: April 2023\
     \[<a href="#/" onclick="visib('BNBC')">Abstract</a>\]   \[[PDF](../files/BNBC.pdf)\] \[[NBER](https://www.nber.org/papers/w29344)\] \[[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3446225)\] \[[Data](http://structureofnews.com/)\]
 <div id="BNBC" style="display: none; text-align: justify; line-height: 1.2" >
@@ -62,7 +62,7 @@ Working Papers
 ---
 
 **4. The Ghost in the Machine: Generating Beliefs with Large Language Models**\
-This version: December 2023\
+This version: February 2025\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]\
 *BlackRock Applied Research Award*\
 *Top Finance Graduate Award*\

@@ -65,7 +65,7 @@ Working Papers
 This version: February 2025\
   \[<a href="#/" onclick="visib('LLM')">Abstract</a>\] \[[PDF](../files/LLM.pdf)\]\
 *BlackRock Applied Research Award*\
-*Top Finance Graduate Award*\
+*HEC Top Finance Graduate Award*\
 *The Brattle Group PhD Candidates Awards for Outstanding Research*\
 *EFA Engelbert Dockner Memorial Prize for the Best Paper by Young Researchers*\
 Subsumes *[Surveying Generative AI's Economic Expectations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4430515)*
